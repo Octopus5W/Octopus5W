@@ -5,13 +5,6 @@
 💻 Passionné par la programmation <br>
 🚀 Toujours en train d’apprendre et de construire de nouveaux projets
 </p>
-
-- 🐧 Développement sous Linux / Unix
-- ⚙️ Passionné par la programmation bas niveau en C
-- 🧠 Intérêt pour les algorithmes et l’optimisation
-- 🌐 Développement web avec React & NestJS
-- 🎯 Objectif : devenir développeur logiciel / cybersécurité
-
 ---
 
 ## 🛠️ Stack & Outils
@@ -62,8 +55,6 @@
 </p>
 
 ---
-
-## 🌐 Me contacter
 
 <p align="center">
 

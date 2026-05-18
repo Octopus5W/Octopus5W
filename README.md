@@ -1,12 +1,10 @@
+## 🚀 À propos de moi
+
 <p align="center">
 🎓 Étudiant à 42 <br>
-💻 Passionné par le développement système, les algorithmes et la cybersécurité <br>
+💻 Passionné par la programmation <br>
 🚀 Toujours en train d’apprendre et de construire de nouveaux projets
 </p>
-
----
-
-## 🚀 À propos de moi
 
 - 🐧 Développement sous Linux / Unix
 - ⚙️ Passionné par la programmation bas niveau en C
@@ -20,7 +18,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,ts,js,react,vitejs,nestjs,nodejs,bash,linux,git,github,docker,vim,vscode" />
+<img src="https://skillicons.dev/icons?i=c,cpp,ts,js,react,nestjs,nodejs,bash,linux,git,github,docker,vim,vscode" />
 
 </p>
 

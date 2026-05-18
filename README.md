@@ -1,5 +1,3 @@
-<h1 align="center">👋 Salut, moi c'est Octopus5W</h1>
-
 <p align="center">
 🎓 Étudiant à 42 <br>
 💻 Passionné par le développement système, les algorithmes et la cybersécurité <br>
@@ -13,7 +11,7 @@
 - 🐧 Développement sous Linux / Unix
 - ⚙️ Passionné par la programmation bas niveau en C
 - 🧠 Intérêt pour les algorithmes et l’optimisation
-- 🌐 Curieux du développement web et des réseaux
+- 🌐 Développement web avec React & NestJS
 - 🎯 Objectif : devenir développeur logiciel / cybersécurité
 
 ---
@@ -22,7 +20,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,ts,js,bash,linux,git,github,docker,vim,vscode" />
+<img src="https://skillicons.dev/icons?i=c,cpp,ts,js,react,vitejs,nestjs,nodejs,bash,linux,git,github,docker,vim,vscode" />
 
 </p>
 
@@ -39,7 +37,7 @@
 | 🔢 [push_swap](https://github.com/Octopus5W/push_swap) | Algorithme de tri optimisé | C |
 | 🖼️ [so_long](https://github.com/Octopus5W/so_long) | Petit jeu 2D avec MiniLibX | C |
 | 🎨 [minitalk](https://github.com/Octopus5W/minitalk) | Communication entre processus via signaux | C |
-| 🌐 [ft_transcendence](https://github.com/JeSapelHaz/ft_transcendence) | Application web multijoueur | TypeScript |
+| 🌐 [ft_transcendence](https://github.com/JeSapelHaz/ft_transcendence) | Application web multijoueur | TypeScript / React / NestJS |
 
 </div>
 
@@ -75,14 +73,4 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://profile.intra.42.fr">
-<img src="https://img.shields.io/badge/42_Profile-000000?style=for-the-badge&logo=42&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-⭐ Merci d’avoir visité mon profil !
 </p>

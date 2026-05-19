@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="580" viewBox="0 0 1200 580" role="img" aria-labelledby="title desc">
+<title id="title">Octopus5W - minimal developer banner</title>
+<desc id="desc">Modern minimal centered GitHub profile banner for Octopus5W with left aligned about text and skill badges.</desc>
+<defs>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22c55e"/><stop offset=".5" stop-color="#38bdf8"/><stop offset="1" stop-color="#a855f7"/></linearGradient>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="18" stdDeviation="24" flood-color="#000" flood-opacity=".35"/></filter>
+  <style>.sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif} .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono",monospace}</style>
+</defs>
+<rect width="1200" height="580" fill="#0d1117" rx="28"/>
+<rect x="70" y="54" width="1060" height="472" rx="30" fill="#111827" stroke="#30363d" filter="url(#shadow)"/>
+<rect x="70" y="54" width="1060" height="4" rx="2" fill="url(#line)"/>
+<text class="mono" x="600" y="118" text-anchor="middle" font-size="19" fill="#94a3b8">const developer =</text>
+<text class="sans" x="600" y="178" text-anchor="middle" font-size="60" fill="#f8fafc" font-weight="800">Octopus5W</text>
+<text class="sans" x="600" y="216" text-anchor="middle" font-size="22" fill="#cbd5e1">Étudiant à 42 • Programmation • Nouveaux projets</text>
+<g transform="translate(362,244)"><rect x="0" y="0" width="476" height="1" fill="#30363d"/><circle cx="0" cy="0" r="4" fill="#22c55e"/><circle cx="238" cy="0" r="4" fill="#38bdf8"/><circle cx="476" cy="0" r="4" fill="#a855f7"/></g>
+<g class="sans" font-size="22" fill="#e5e7eb">
+  <text x="382" y="294" text-anchor="start">&gt; Étudiant à 42</text>
+  <text x="382" y="332" text-anchor="start">&gt; Passionné par la programmation</text>
+  <text x="382" y="370" text-anchor="start">&gt; Toujours en train d’apprendre et de construire de nouveaux projets</text>
+</g>
+<g class="mono"><g class="badge">
+  <rect x="383.0" y="396" width="54" height="36" rx="18" fill="#111827" stroke="#334155" stroke-width="1.4"/>
+  <text x="410.0" y="418" text-anchor="middle" fill="#e5e7eb" font-size="15" font-weight="700">42</text>
+</g><g class="badge">
+  <rect x="451.0" y="396" width="54" height="36" rx="18" fill="#111827" stroke="#334155" stroke-width="1.4"/>
+  <text x="478.0" y="418" text-anchor="middle" fill="#e5e7eb" font-size="15" font-weight="700">C</text>
+</g><g class="badge">
+  <rect x="519.0" y="396" width="55" height="36" rx="18" fill="#111827" stroke="#334155" stroke-width="1.4"/>
+  <text x="546.5" y="418" text-anchor="middle" fill="#e5e7eb" font-size="15" font-weight="700">C++</text>
+</g><g class="badge">
+  <rect x="588.0" y="396" width="64" height="36" rx="18" fill="#111827" stroke="#334155" stroke-width="1.4"/>
+  <text x="620.0" y="418" text-anchor="middle" fill="#e5e7eb" font-size="15" font-weight="700">Make</text>
+</g><g class="badge">
+  <rect x="666.0" y="396" width="64" height="36" rx="18" fill="#111827" stroke="#334155" stroke-width="1.4"/>
+  <text x="698.0" y="418" text-anchor="middle" fill="#e5e7eb" font-size="15" font-weight="700">Bash</text>
+</g><g class="badge">
+  <rect x="744.0" y="396" width="73" height="36" rx="18" fill="#111827" stroke="#334155" stroke-width="1.4"/>
+  <text x="780.5" y="418" text-anchor="middle" fill="#e5e7eb" font-size="15" font-weight="700">Linux</text>
+</g><g class="badge">
+  <rect x="342.0" y="446" width="55" height="36" rx="18" fill="#111827" stroke="#334155" stroke-width="1.4"/>
+  <text x="369.5" y="468" text-anchor="middle" fill="#e5e7eb" font-size="15" font-weight="700">Git</text>
+</g><g class="badge">
+  <rect x="411.0" y="446" width="82" height="36" rx="18" fill="#111827" stroke="#334155" stroke-width="1.4"/>
+  <text x="452.0" y="468" text-anchor="middle" fill="#e5e7eb" font-size="15" font-weight="700">GitHub</text>
+</g><g class="badge">
+  <rect x="507.0" y="446" width="82" height="36" rx="18" fill="#111827" stroke="#334155" stroke-width="1.4"/>
+  <text x="548.0" y="468" text-anchor="middle" fill="#e5e7eb" font-size="15" font-weight="700">Docker</text>
+</g><g class="badge">
+  <rect x="603.0" y="446" width="82" height="36" rx="18" fill="#111827" stroke="#334155" stroke-width="1.4"/>
+  <text x="644.0" y="468" text-anchor="middle" fill="#e5e7eb" font-size="15" font-weight="700">NeoVim</text>
+</g><g class="badge">
+  <rect x="699.0" y="446" width="91" height="36" rx="18" fill="#111827" stroke="#334155" stroke-width="1.4"/>
+  <text x="744.5" y="468" text-anchor="middle" fill="#e5e7eb" font-size="15" font-weight="700">VS Code</text>
+</g><g class="badge">
+  <rect x="804.0" y="446" width="54" height="36" rx="18" fill="#111827" stroke="#334155" stroke-width="1.4"/>
+  <text x="831.0" y="468" text-anchor="middle" fill="#e5e7eb" font-size="15" font-weight="700">JS</text>
+</g><g class="badge">
+  <rect x="369.0" y="496" width="54" height="36" rx="18" fill="#111827" stroke="#334155" stroke-width="1.4"/>
+  <text x="396.0" y="518" text-anchor="middle" fill="#e5e7eb" font-size="15" font-weight="700">TS</text>
+</g><g class="badge">
+  <rect x="437.0" y="496" width="73" height="36" rx="18" fill="#111827" stroke="#334155" stroke-width="1.4"/>
+  <text x="473.5" y="518" text-anchor="middle" fill="#e5e7eb" font-size="15" font-weight="700">React</text>
+</g><g class="badge">
+  <rect x="524.0" y="496" width="64" height="36" rx="18" fill="#111827" stroke="#334155" stroke-width="1.4"/>
+  <text x="556.0" y="518" text-anchor="middle" fill="#e5e7eb" font-size="15" font-weight="700">Node</text>
+</g><g class="badge">
+  <rect x="602.0" y="496" width="64" height="36" rx="18" fill="#111827" stroke="#334155" stroke-width="1.4"/>
+  <text x="634.0" y="518" text-anchor="middle" fill="#e5e7eb" font-size="15" font-weight="700">Nest</text>
+</g><g class="badge">
+  <rect x="680.0" y="496" width="82" height="36" rx="18" fill="#111827" stroke="#334155" stroke-width="1.4"/>
+  <text x="721.0" y="518" text-anchor="middle" fill="#e5e7eb" font-size="15" font-weight="700">Python</text>
+</g><g class="badge">
+  <rect x="776.0" y="496" width="55" height="36" rx="18" fill="#111827" stroke="#334155" stroke-width="1.4"/>
+  <text x="803.5" y="518" text-anchor="middle" fill="#e5e7eb" font-size="15" font-weight="700">GDB</text>
+</g></g>
+</svg>

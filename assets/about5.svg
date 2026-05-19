@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+<title id="title">Octopus5W - cyber terminal profile banner</title>
+<desc id="desc">Dark neon programming banner for Octopus5W with an octopus developer, terminal panels, about text, and programming skill badges.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050816"/><stop offset="0.48" stop-color="#08111f"/><stop offset="1" stop-color="#130824"/></linearGradient>
+  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#33ff99"/><stop offset="0.5" stop-color="#38bdf8"/><stop offset="1" stop-color="#a855f7"/></linearGradient>
+  <radialGradient id="octo" cx="50%" cy="35%" r="65%"><stop offset="0" stop-color="#8b5cf6"/><stop offset="0.55" stop-color="#6d28d9"/><stop offset="1" stop-color="#312e81"/></radialGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <style>.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono",monospace} .sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}</style>
+</defs>
+<rect width="1200" height="620" rx="28" fill="url(#bg)"/>
+<path d="M0 86 C180 54 271 122 430 78 C590 34 702 74 828 40 C980 0 1080 44 1200 16" fill="none" stroke="#1f7aff" stroke-opacity=".15" stroke-width="2"/>
+<g opacity=".18" stroke="#38bdf8" stroke-width="1" fill="none"><path d="M790 72h196v76h86"/><path d="M846 118h78v42h222"/><path d="M36 538h212v-58h130"/><path d="M82 96h266v56h154"/><circle cx="986" cy="72" r="4" fill="#38bdf8"/><circle cx="1072" cy="148" r="4" fill="#a855f7"/><circle cx="378" cy="480" r="4" fill="#33ff99"/></g>
+
+<text class="mono" x="70" y="82" fill="#33ff99" font-size="22">user@Octopus5W:~$ whoami</text>
+<text class="mono" x="70" y="160" fill="url(#neon)" font-size="72" font-weight="900" letter-spacing="-3" filter="url(#glow)">&gt; Octopus5W</text>
+<rect x="68" y="196" width="560" height="2" fill="url(#neon)" opacity=".65"/>
+
+<g class="sans" font-size="24" fill="#d8efff">
+  <path d="M88 245 l28 -14 l28 14 l-28 14z M98 253 v22 c13 8 24 8 36 0 v-22" fill="none" stroke="#33ff99" stroke-width="3"/>
+  <text x="160" y="259">Étudiant à 42</text>
+  <rect x="89" y="285" width="54" height="34" rx="6" fill="none" stroke="#38bdf8" stroke-width="3"/><path d="M105 302 l10 -9 M105 302 l10 9 M128 293 l10 9 l-10 9" stroke="#38bdf8" stroke-width="3" fill="none"/>
+  <text x="160" y="313">Passionné par la programmation</text>
+  <path d="M92 367 l44 -32 l-16 52 l-9 -22 z" fill="none" stroke="#a855f7" stroke-width="4" stroke-linejoin="round"/><circle cx="119" cy="355" r="4" fill="#a855f7"/>
+  <text x="160" y="353">Toujours en train d’apprendre</text>
+  <text x="160" y="386">et de construire de nouveaux projets</text>
+</g>
+
+<rect x="66" y="414" width="584" height="158" rx="18" fill="#050b16" stroke="#2563eb" stroke-opacity=".72"/>
+<text class="mono" x="92" y="442" fill="#33ff99" font-size="18">user@Octopus5W:~$ skills --core --tools</text>
+<g class="mono"><g class="badge">
+  <rect x="92" y="444" width="48" height="34" rx="12" fill="#0b1220" stroke="#7c3aed" stroke-width="1.4"/>
+  <text x="116.0" y="466" text-anchor="middle" fill="#e6f6ff" font-size="15" font-weight="700">42</text>
+</g><g class="badge">
+  <rect x="150" y="444" width="48" height="34" rx="12" fill="#0b1220" stroke="#06b6d4" stroke-width="1.4"/>
+  <text x="174.0" y="466" text-anchor="middle" fill="#e6f6ff" font-size="15" font-weight="700">C</text>
+</g><g class="badge">
+  <rect x="208" y="444" width="51" height="34" rx="12" fill="#0b1220" stroke="#22c55e" stroke-width="1.4"/>
+  <text x="233.5" y="466" text-anchor="middle" fill="#e6f6ff" font-size="15" font-weight="700">C++</text>
+</g><g class="badge">
+  <rect x="269" y="444" width="60" height="34" rx="12" fill="#0b1220" stroke="#f97316" stroke-width="1.4"/>
+  <text x="299.0" y="466" text-anchor="middle" fill="#e6f6ff" font-size="15" font-weight="700">Make</text>
+</g><g class="badge">
+  <rect x="339" y="444" width="60" height="34" rx="12" fill="#0b1220" stroke="#eab308" stroke-width="1.4"/>
+  <text x="369.0" y="466" text-anchor="middle" fill="#e6f6ff" font-size="15" font-weight="700">Bash</text>
+</g><g class="badge">
+  <rect x="409" y="444" width="69" height="34" rx="12" fill="#0b1220" stroke="#ef4444" stroke-width="1.4"/>
+  <text x="443.5" y="466" text-anchor="middle" fill="#e6f6ff" font-size="15" font-weight="700">Linux</text>
+</g><g class="badge">
+  <rect x="488" y="444" width="51" height="34" rx="12" fill="#0b1220" stroke="#7c3aed" stroke-width="1.4"/>
+  <text x="513.5" y="466" text-anchor="middle" fill="#e6f6ff" font-size="15" font-weight="700">Git</text>
+</g><g class="badge">
+  <rect x="92" y="490" width="78" height="34" rx="12" fill="#0b1220" stroke="#06b6d4" stroke-width="1.4"/>
+  <text x="131.0" y="512" text-anchor="middle" fill="#e6f6ff" font-size="15" font-weight="700">GitHub</text>
+</g><g class="badge">
+  <rect x="180" y="490" width="78" height="34" rx="12" fill="#0b1220" stroke="#22c55e" stroke-width="1.4"/>
+  <text x="219.0" y="512" text-anchor="middle" fill="#e6f6ff" font-size="15" font-weight="700">Docker</text>
+</g><g class="badge">
+  <rect x="268" y="490" width="78" height="34" rx="12" fill="#0b1220" stroke="#f97316" stroke-width="1.4"/>
+  <text x="307.0" y="512" text-anchor="middle" fill="#e6f6ff" font-size="15" font-weight="700">NeoVim</text>
+</g><g class="badge">
+  <rect x="356" y="490" width="87" height="34" rx="12" fill="#0b1220" stroke="#eab308" stroke-width="1.4"/>
+  <text x="399.5" y="512" text-anchor="middle" fill="#e6f6ff" font-size="15" font-weight="700">VS Code</text>
+</g><g class="badge">
+  <rect x="453" y="490" width="48" height="34" rx="12" fill="#0b1220" stroke="#ef4444" stroke-width="1.4"/>
+  <text x="477.0" y="512" text-anchor="middle" fill="#e6f6ff" font-size="15" font-weight="700">JS</text>
+</g><g class="badge">
+  <rect x="511" y="490" width="48" height="34" rx="12" fill="#0b1220" stroke="#7c3aed" stroke-width="1.4"/>
+  <text x="535.0" y="512" text-anchor="middle" fill="#e6f6ff" font-size="15" font-weight="700">TS</text>
+</g><g class="badge">
+  <rect x="92" y="536" width="69" height="34" rx="12" fill="#0b1220" stroke="#06b6d4" stroke-width="1.4"/>
+  <text x="126.5" y="558" text-anchor="middle" fill="#e6f6ff" font-size="15" font-weight="700">React</text>
+</g><g class="badge">
+  <rect x="171" y="536" width="60" height="34" rx="12" fill="#0b1220" stroke="#22c55e" stroke-width="1.4"/>
+  <text x="201.0" y="558" text-anchor="middle" fill="#e6f6ff" font-size="15" font-weight="700">Node</text>
+</g><g class="badge">
+  <rect x="241" y="536" width="60" height="34" rx="12" fill="#0b1220" stroke="#f97316" stroke-width="1.4"/>
+  <text x="271.0" y="558" text-anchor="middle" fill="#e6f6ff" font-size="15" font-weight="700">Nest</text>
+</g><g class="badge">
+  <rect x="311" y="536" width="78" height="34" rx="12" fill="#0b1220" stroke="#eab308" stroke-width="1.4"/>
+  <text x="350.0" y="558" text-anchor="middle" fill="#e6f6ff" font-size="15" font-weight="700">Python</text>
+</g></g>
+
+<g transform="translate(718,142)">
+  <path d="M180 222 C70 226 33 290 48 350 C72 445 192 376 144 318 C118 287 84 321 103 350" fill="none" stroke="#6d28d9" stroke-width="35" stroke-linecap="round"/>
+  <path d="M246 220 C360 230 395 290 381 348 C359 440 239 382 287 318 C312 285 348 318 329 350" fill="none" stroke="#7c3aed" stroke-width="35" stroke-linecap="round"/>
+  <path d="M205 260 C150 300 142 384 187 418 C234 452 270 385 225 354" fill="none" stroke="#8b5cf6" stroke-width="32" stroke-linecap="round"/>
+  <path d="M234 262 C294 302 302 384 257 418 C210 452 174 385 219 354" fill="none" stroke="#5b21b6" stroke-width="32" stroke-linecap="round"/>
+  <ellipse cx="214" cy="166" rx="138" ry="118" fill="url(#octo)" stroke="#a78bfa" stroke-width="4"/>
+  <ellipse cx="164" cy="156" rx="32" ry="38" fill="#0b1020" stroke="#67e8f9" stroke-width="4"/>
+  <ellipse cx="264" cy="156" rx="32" ry="38" fill="#0b1020" stroke="#67e8f9" stroke-width="4"/>
+  <circle cx="168" cy="162" r="13" fill="#dff9ff"/><circle cx="269" cy="162" r="13" fill="#dff9ff"/><circle cx="172" cy="166" r="7" fill="#38bdf8"/><circle cx="265" cy="166" r="7" fill="#38bdf8"/>
+  <path d="M196 208 C215 224 238 224 256 208" stroke="#111827" stroke-width="7" stroke-linecap="round" fill="none"/><path d="M195 155 h38" stroke="#67e8f9" stroke-width="5"/>
+  <rect x="-10" y="330" width="372" height="74" rx="16" fill="#070b13" stroke="#38bdf8" stroke-opacity=".7"/>
+  <rect x="30" y="295" width="286" height="50" rx="10" fill="#101827" stroke="#2563eb"/>
+  <text class="mono" x="55" y="328" fill="#38bdf8" font-size="28" font-weight="900">42</text><text class="mono" x="102" y="328" fill="#dff9ff" font-size="20">code • learn • build</text>
+</g>
+<g class="mono">
+  <rect x="730" y="52" width="350" height="166" rx="12" fill="#07111f" stroke="#2563eb"/><circle cx="752" cy="72" r="5" fill="#ef4444"/><circle cx="770" cy="72" r="5" fill="#eab308"/><circle cx="788" cy="72" r="5" fill="#22c55e"/>
+  <text x="756" y="106" fill="#38bdf8" font-size="18">#include &lt;stdio.h&gt;</text><text x="756" y="140" fill="#f472b6" font-size="18">int main(void) {</text><text x="790" y="170" fill="#a3e635" font-size="18">return (learn());</text><text x="756" y="200" fill="#f472b6" font-size="18">}</text>
+  <rect x="934" y="236" width="210" height="166" rx="12" fill="#07111f" stroke="#2563eb"/><text x="956" y="276" fill="#38bdf8" font-size="18">~/projects</text><text x="974" y="306" fill="#33ff99" font-size="17">+ libft/</text><text x="974" y="334" fill="#33ff99" font-size="17">+ push_swap/</text><text x="974" y="362" fill="#33ff99" font-size="17">+ philosophers/</text><text x="974" y="390" fill="#33ff99" font-size="17">+ cub3d/</text>
+</g>
+</svg>

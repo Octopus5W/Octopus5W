@@ -1,16 +1,5 @@
-## 🚀 À propos de moi
 <p align="center">
   <img src="./assets/about1.png" alt="À propos de moi">
-</p>
-
----
-
-## 🛠️ Stack & Outils
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,ts,js,react,nestjs,nodejs,bash,linux,git,github,docker,vim,vscode" />
-
 </p>
 
 ---

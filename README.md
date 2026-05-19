@@ -1,6 +1,6 @@
 ## 🚀 À propos de moi
 <p align="center">
-  <img src="./assets/about.svg" alt="À propos de moi">
+  <img src="./about.png" alt="À propos de moi">
 </p>
 
 ---

@@ -1,9 +1,6 @@
 ## 🚀 À propos de moi
-
 <p align="center">
-🎓 Étudiant à 42 <br>
-💻 Passionné par la programmation <br>
-🚀 Toujours en train d’apprendre et de construire de nouveaux projets
+  <img src="./assets/about.svg" alt="À propos de moi">
 </p>
 
 ---

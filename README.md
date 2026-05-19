@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/about3.png" alt="À propos de moi">
+  <img src="./assets/about4.png" alt="À propos de moi">
 </p>
 
 ---
